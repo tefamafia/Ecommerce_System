@@ -1,0 +1,3 @@
+interface Shippable {
+    double getWeight();
+}
